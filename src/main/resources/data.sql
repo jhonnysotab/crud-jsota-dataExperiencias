@@ -1,0 +1,1 @@
+INSERT INTO  EMPRESA ( ruc, RazonSocial, direccion, estado) VALUES ('empresa1','empresa1','empresa1','TRUE');
